@@ -12,9 +12,9 @@ WeatherGuard started as a simple static weather web page and is being expanded o
 
 | Week | Focus | Write-up |
 |------|-------|----------|
-| Week 1 | Static site hosting on Amazon S3; added CloudFront as a follow-up fix | [Week 1 README](./week1-README.md) |
-| Week 2 | Redesigned interface; added login & signup pages (frontend only) | [Week 2 README](./week2-README.md) |
-| Week 3 | Added real authentication using AWS Lambda + Amazon Cognito | [Week 3 README](./week3-README.md) |
+| Week 1 | Static site hosting on Amazon S3; added CloudFront as a follow-up fix | [Week 1 README](week1) |
+| Week 2 | Redesigned interface; added login & signup pages (frontend only) | [Week 2 README](week2) |
+| Week 3 | Added real authentication using AWS Lambda + Amazon Cognito | [Week 3 README](week3) |
 
 > These link to the `week1-README.md`, `week2-README.md`, and `week3-README.md` files in this repo. If you'd rather publish standalone Medium articles, swap these links for the article URLs instead.
 
