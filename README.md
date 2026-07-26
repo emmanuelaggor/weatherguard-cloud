@@ -85,8 +85,8 @@ User → CloudFront → S3 (Static Site)
 
 ## 👥 Team
 
-- *(Add team member names/roles here)*
+- *()*
 
 ## 📄 License
 
-*(Add a license, e.g., MIT, or state "For educational purposes as part of Akwannya Hub Cloud Peer Project")*
+*("For educational purposes as part of Akwannya Hub Cloud Peer Project")*
