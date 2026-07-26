@@ -16,7 +16,6 @@ WeatherGuard started as a simple static weather web page and is being expanded o
 | Week 2 | Redesigned interface; added login & signup pages (frontend only) | [Week 2 README](week2) |
 | Week 3 | Added real authentication using AWS Lambda + Amazon Cognito | [Week 3 README](week3) |
 
-> These link to the `week1-README.md`, `week2-README.md`, and `week3-README.md` files in this repo. If you'd rather publish standalone Medium articles, swap these links for the article URLs instead.
 
 ## 🏗️ Architecture
 
@@ -85,7 +84,12 @@ User → CloudFront → S3 (Static Site)
 
 ## 👥 Team
 
-- *()*
+- *(Michel- Group Leader)*
+- *(Edward- Software Engineer)*
+- *(Nana Yaw- Software Engineer)*
+- *(Emmanuel Selasie Aggor - Cloud and Security)*
+- *(Damien - Devops)*
+- *(Chibuke - Solution Architech)*
 
 ## 📄 License
 
